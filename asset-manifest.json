@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/diagnal-test/static/css/main.70e11e56.css",
-    "main.js": "/diagnal-test/static/js/main.47e766aa.js",
+    "main.css": "/diagnal-test/static/css/main.d2b81ef4.css",
+    "main.js": "/diagnal-test/static/js/main.87341ce3.js",
     "static/media/poster2.jpg": "/diagnal-test/static/media/poster2.bf23bfae49d854fec0f2.jpg",
     "static/media/poster1.jpg": "/diagnal-test/static/media/poster1.d966e333249e4f74e821.jpg",
     "static/media/poster3.jpg": "/diagnal-test/static/media/poster3.7ee7b802517e3b685aaf.jpg",
@@ -12,11 +12,11 @@
     "static/media/poster4.jpg": "/diagnal-test/static/media/poster4.a2f1de9b0f0c656226d7.jpg",
     "static/media/poster7.jpg": "/diagnal-test/static/media/poster7.8f23c2d5749c68467aaf.jpg",
     "index.html": "/diagnal-test/index.html",
-    "main.70e11e56.css.map": "/diagnal-test/static/css/main.70e11e56.css.map",
-    "main.47e766aa.js.map": "/diagnal-test/static/js/main.47e766aa.js.map"
+    "main.d2b81ef4.css.map": "/diagnal-test/static/css/main.d2b81ef4.css.map",
+    "main.87341ce3.js.map": "/diagnal-test/static/js/main.87341ce3.js.map"
   },
   "entrypoints": [
-    "static/css/main.70e11e56.css",
-    "static/js/main.47e766aa.js"
+    "static/css/main.d2b81ef4.css",
+    "static/js/main.87341ce3.js"
   ]
 }
