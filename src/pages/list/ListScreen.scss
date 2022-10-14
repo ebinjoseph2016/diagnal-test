@@ -1,5 +1,6 @@
 .listBody{
 width: 100%;
+background-color: #000;
 }
 .header{
     background-color: #000;
@@ -10,7 +11,7 @@ width: 100%;
     flex-direction: row;
     align-items: center;
     position: sticky; top: 0;
-    box-shadow: 0 10px 6px -6px #000;
+    box-shadow: 0 10px 6px -6px rgba(86, 86, 86, 0.466);
     .icon{
         width: 10%;
         .backIcon{

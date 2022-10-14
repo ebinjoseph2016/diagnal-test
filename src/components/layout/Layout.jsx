@@ -13,6 +13,7 @@ export default function Layout() {
           <Route index element={<HomeScreen />} />
           <Route path="home" element={<HomeScreen />} />
           <Route path="list" element={<ListScreen />} />
+          <Route path="diagnal-test" element={<HomeScreen />} />
           <Route path='*' element={<NotFound />} />
         </Route>
       </Routes>
